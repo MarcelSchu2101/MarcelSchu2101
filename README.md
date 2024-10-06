@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarcelSchu2101
-- I am studying computer science at TU Dortmund University.
+- Master of Science (Computer Science)
 
 <!---
 MarcelSchu2101/MarcelSchu2101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
